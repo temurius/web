@@ -30,8 +30,9 @@ body {
 }
 .slider {
     height: 550px;
-    width: 100vw;
-    background: url(../images/bg-img.jpg) center;
+    width: 100%;
+    background: url(../images/bg-img.jpg) no-repeat center;
+    background-size: cover;
 }
 .slider-title {
     text-align: center;
